@@ -18,6 +18,7 @@ def show_output():
 
 
 
+
 window = tk.Tk()
 window.title("Hee bo")
 window.minsize(width=400, height = 400)
